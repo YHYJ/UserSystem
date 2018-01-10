@@ -103,3 +103,5 @@ ENV/
 # database
 *.sqlite3
 
+.vscode/
+.idea/
